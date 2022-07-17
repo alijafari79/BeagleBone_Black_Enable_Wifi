@@ -57,3 +57,7 @@ https://youtu.be/PpWjmkTSKYM
 ### Turn on wifi :
 
 https://youtu.be/wPy0ldR02Is
+
+---
+
+https://linuxconfig.org/etcnetworkinterfacesto-connect-ubuntu-to-a-wireless-network

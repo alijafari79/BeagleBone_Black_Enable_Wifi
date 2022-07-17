@@ -49,3 +49,5 @@ sudo dpkg-reconfigure resolvconf
 ```
 connmanctl technologies
 ```
+
+https://youtu.be/PpWjmkTSKYM

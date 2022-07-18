@@ -58,6 +58,36 @@ https://youtu.be/PpWjmkTSKYM
 
 https://youtu.be/wPy0ldR02Is
 
+```
+connmanctl
+```
+```
+tether wifi disable
+```
+
+```
+enable wifi
+```
+
+```
+scan wifi
+```
+
+```
+services
+```
+
+```
+agent on
+```
+
+```
+connect <WIFI_ID>
+```
+
+```
+config <WIFI_ID> --ipv4 manual 192.168.218.58 255.255.255.0 192.168.218.145 --nameservers 8.8.8.8
+```
 ---
 
 https://linuxconfig.org/etcnetworkinterfacesto-connect-ubuntu-to-a-wireless-network

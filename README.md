@@ -34,16 +34,6 @@ Check the log message of devices to ensure that there is no error.
 dmesg -wH
 ```
 
-### Install resolve.conf
-
-```
-apt install resolvconf
-```
-
-```
-sudo dpkg-reconfigure resolvconf
-```
-
 ### Last Check "connmanctl technologies"
 
 ```

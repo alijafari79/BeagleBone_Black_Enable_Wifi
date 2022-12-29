@@ -2,7 +2,6 @@
 BeagleBone Black enable wifi technology through USB port using a usb wifi adaptor
 
 
-
 ## Check if firmware of usb wifi adapter exists :
 
 ```
